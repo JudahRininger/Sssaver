@@ -8,5 +8,9 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2244" />  
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="particle.forms" Version="1.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="particle.forms" />
   </ItemGroup>
 </Project>
